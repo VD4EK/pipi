@@ -69,8 +69,7 @@ betterttv.net
 7tv.app
 7tv.io
 myip2.ru
-*.cdn.whatsapp.net
-*.akamaihd.net
+*akamaihd.net
 *wa.me
 *whatsapp.biz
 *whatsapp.com
@@ -89,3 +88,14 @@ myip2.ru
 *licdn.com
 *tfbnw.net
 thefacebook.com
+chat.openai.com
+*chatgpt.com
+*auth.openai.com
+auth0.openai.com
+*ns1.cloudflare.net
+*cdn.oaistatic.com
+*openai.com
+*files.oaiusercontent.com
+*api.openai.com
+*ab.chatgpt.com
+*arena.openai.com
